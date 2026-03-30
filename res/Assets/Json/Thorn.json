@@ -1,0 +1,40 @@
+{
+  "frame_size": {
+    "width": 59,
+    "height": 44,
+    "space": 24
+  },
+  "structure": "single",
+  "animations": {
+    "Idle_left": {
+      "frames": 8,
+      "loop": true,
+      "index": 0
+    },
+    "Idle_right": {
+      "frames": 8,
+      "loop": true,
+      "index": 1
+    },
+    "Turn": {
+      "frames": 5,
+      "loop": false,
+      "index": 2
+    },
+    "Attack_left": {
+      "frames": 5,
+      "loop": false,
+      "index": 3
+    },
+    "Attack_right": {
+      "frames": 5,
+      "loop": false,
+      "index": 4
+    },
+    "Death": {
+      "frames": 4,
+      "loop": false,
+      "index": 5
+    }
+  }
+}

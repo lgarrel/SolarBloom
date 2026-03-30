@@ -1,0 +1,24 @@
+{
+    "frame_size": {
+        "width": 300,
+        "height": 500
+    },
+    "animations": {
+        "down": {
+            "frames": 4,
+            "loop": true
+        },
+        "up": {
+            "frames": 4,
+            "loop": true
+        },
+        "left": {
+            "frames": 4,
+            "loop": true
+        },
+        "right": {
+            "frames": 4,
+            "loop": true
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "frame_size": {
+    "width": 52,
+    "height": 42,
+    "space": 3
+  },
+    "structure": "ByRow",
+    "elements": {
+      "Dissipate": {
+        "frames": 5,
+        "loop": false,
+        "index": 0
+      }
+    }
+  }
+  

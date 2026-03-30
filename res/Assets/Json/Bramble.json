@@ -1,0 +1,17 @@
+{
+    "frame_size": { "width": 20, "height": 30, "space": 0 },
+    "structure": "single",
+  "animations": {
+    "Idle": {
+      "frames": 5,
+      "loop": true,
+      "index": 0
+    },
+    "Death": {
+      "frames": 1,
+      "loop": false,
+      "index": 1
+    }
+  }
+ }
+  

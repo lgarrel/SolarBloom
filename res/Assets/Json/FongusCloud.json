@@ -1,0 +1,11 @@
+{
+  "frame_size": { "width": 86, "height": 57, "space": 2},
+  "structure": "byRow",
+  "elements": {
+    "FongusCloud": {
+      "frames": 6,
+      "loop": false,
+      "index": 0
+    }
+  }
+}

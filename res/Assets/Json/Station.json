@@ -1,0 +1,17 @@
+{
+  "frame_size": { "width": 33, "height": 77, "space": 0 },
+  "structure": "single",
+  "animations": {
+    "Idle": {
+      "frames": 6,
+      "loop": true,
+      "index": 0
+    },
+
+    "Used": {
+      "frames": 13,
+      "loop": false,
+      "index": 1
+    }
+  }
+}

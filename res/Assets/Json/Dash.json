@@ -1,0 +1,16 @@
+{
+  "frame_size": { "width": 16, "height": 45, "space": 0  },
+  "structure": "byRow",
+  "elements": {
+    "Recharge": {
+      "frames": 7,
+      "loop": false,
+      "index": 0
+    },
+    "Full": {
+      "frames": 2,
+      "loop": true,
+      "index": 1
+    }
+  }
+}

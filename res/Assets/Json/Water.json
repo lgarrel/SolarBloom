@@ -1,0 +1,20 @@
+{
+  "frame_size": {
+    "width": 16,
+    "height": 16,
+    "space": 1
+  },
+  "structure": "byRow",
+  "elements": {
+    "Pop": {
+      "frames": 7,
+      "loop": false,
+      "index": 0
+    },
+    "Water": {
+      "frames": 4,
+      "loop": true,
+      "index": 1
+    }
+  }
+}

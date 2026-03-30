@@ -1,0 +1,16 @@
+{
+  "frame_size": { "width": 96, "height": 16, "space": 3 },
+  "structure": "single",
+  "animations": {
+    "Opening": {
+      "frames": 4,
+      "loop": false,
+      "index": 0
+    },
+    "Closing": {
+      "frames": 4,
+      "loop": false,
+      "index": 1
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+    "frame_size": { "width": 44, "height": 32, "space": 18 },
+    "structure": "single",
+  "animations": {
+    "IdleRight": {
+      "frames": 4,
+      "loop": true,
+      "index": 0
+    },
+    "AttackRight": {
+      "frames": 7,
+      "loop": true,
+      "index": 1
+    },
+    "WalkRight": {
+      "frames": 8,
+      "loop": true,
+      "index": 2
+    },
+    "IdleLeft": {
+      "frames": 4,
+      "loop": true,
+      "index": 3
+    },
+    "AttackLeft": {
+      "frames": 7,
+      "loop": true,
+      "index": 4
+    },
+    "WalkLeft": {
+      "frames": 8,
+      "loop": true,
+      "index": 5
+    },
+    "IdleRightBlue": {
+      "frames": 4,
+      "loop": true,
+      "index": 6
+    },
+    "WalkRightBlue": {
+      "frames": 8,
+      "loop": true,
+      "index": 7
+    },
+    "IdleLeftBlue": {
+      "frames": 4,
+      "loop": true,
+      "index": 8
+    },
+    "WalkLeftBlue": {
+      "frames": 8,
+      "loop": true,
+      "index": 9
+    }
+  }
+}
+

@@ -1,0 +1,12 @@
+{
+    "frame_size": { "width": 82, "height": 22, "space": 0 },
+    "structure": "single",
+    "animations": {
+      "Idle": {
+        "frames": 5,
+        "loop": true,
+        "index": 0
+      }
+    }
+  }
+  

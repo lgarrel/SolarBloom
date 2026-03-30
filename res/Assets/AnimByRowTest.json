@@ -1,0 +1,20 @@
+{
+    "frame_size": {
+        "width": 300,
+        "height": 500
+    },
+    "elements": {
+        "explosion": {
+            "frames": 6,
+            "loop": false
+        },
+        "fireball": {
+            "frames": 4,
+            "loop": false
+        },
+        "sparks": {
+            "frames": 5,
+            "loop": false
+        }
+    }
+}

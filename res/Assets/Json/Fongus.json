@@ -1,0 +1,22 @@
+{
+    "frame_size": { "width": 28, "height": 24, "space": 0},
+    "structure": "single",
+    "animations": {
+      "Idle": {
+        "frames": 5,
+        "loop": true,
+        "index": 0
+      },
+      "Attack": {
+        "frames": 6,
+        "loop": false,
+        "index": 1
+      },
+      "Death": {
+        "frames": 5,
+        "loop": false,
+        "index": 2
+      }
+    }
+  }
+  
